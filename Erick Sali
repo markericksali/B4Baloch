@@ -125,8 +125,8 @@ jalan("\033[1;93m тШЮ тФИтФИFrends Cloning k liy sirf indian id ka link
 jalan("\033[1;93m тШЮ тФИтФИтФИтФИтФИтФИтФИтФИWhatsApp Num :  +923232132362тФИтФИтФИтФИтФИтФИтФИтФИтФИтФИтФИ")
 print "\033[1;95m   тЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтАвтЧИтАвтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧд\033[1;96mLogin B4Baloch\033[1;95mтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтАвтЧИтАвтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧдтЧетЧд"
 
-CorrectUsername = "B4Baloch"
-CorrectPassword = "m4master"
+CorrectUsername = "Erick"
+CorrectPassword = "Sali"
 
 loop = 'true'
 while (loop == 'true'):
